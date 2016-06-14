@@ -1,0 +1,6 @@
+To: rongrong.am@gmail.com
+Subject: Email address confirmation
+From: FBO Corporation <no-reply@fbofund.com>
+Content-type: text/html
+
+This message is to notify you that the email associated to your FBOC account <b>malek01</b>is being changed. <b> rongrong.am@gmail.com </b> is being changed to <b> rongrong.mam@gmail.com</b> <br/><br/><br/><br/>If you did not initialize the email change procedure, please contact FBOC member support immediately.<br/><br/>***************************************************************************************************************<br/><br/>This is an automated email - Please do not reply.<br/>This mailbox is not monitored and you will not receive a response.<br/>To contact us, login to your FBOC account and send us a message via Support Ticket.<br/>***************************************************************************************************************

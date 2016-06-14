@@ -1,0 +1,6 @@
+To: hemaet07@gmail.com
+Subject: Password Reset
+From: FBO Corporation <no-reply@fbofund.com>
+Content-type: text/html
+
+Good Day<br/><br/>Dear FBO Member to set a new password for your Account, please click the following link: <br/> http://fbofund.com/member/resetpassword?code=ezM28Cvh4n7gkwHmGBFX1V5SaNPpDK9i&waqt=1455638146
